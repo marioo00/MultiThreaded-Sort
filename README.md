@@ -8,7 +8,7 @@ This project demonstrates a multi-threaded bubble sort algorithm in C++, designe
 - **`generate.cpp`** – Random number generator.
 - **`sortrace.sh`** – Benchmark automation script.
 - **`numbers.dat`** – Randomly generated input data.
-  
+- **`sortrace.log`** -Output of program
 
 ---
 
